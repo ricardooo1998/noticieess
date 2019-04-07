@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "950515077884",
+    "firebase_url": "https://noticieess.firebaseio.com",
+    "project_id": "noticieess",
+    "storage_bucket": "noticieess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950515077884:android:927aa87f35fb595b",
+        "android_client_info": {
+          "package_name": "com.lasputiis.noticieess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950515077884-7trhs27snql5sq74j40sda2u1jsth7nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lasputiis.noticieess",
+            "certificate_hash": "5734a4071d92be6724dd6b22de7c3f7f46fc5ac6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLRuFcu5HBd8w0mYtopvvdsqJH8egw9JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950515077884-g8hhapdui6rn2mh0qhopqt8a10qgspgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
